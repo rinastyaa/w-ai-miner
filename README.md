@@ -1,7 +1,8 @@
-# Tutorial Menjalankan CLI pada W.AI Pelatihan dan Inference Model Miner GPU/VGA
+# Tutorial Menjalankan CLI pada W.AI Pelatihan dan Inferensi Model Miner GPU/VGA
 
-w.ai is building the Global AI Supercomputer – a worldwide network that uses the spare power from everyday devices (PCs, laptops, phones) to create a massive, shared resource for Artificial Intelligence.
+**W.ai is building the Global AI Supercomputer – a worldwide network that uses the spare power from everyday devices (PCs, laptops, phones) to create a massive, shared resource for Artificial Intelligence. Backed by Nvidia**
 
+<img width="1339" height="637" alt="image" src="https://github.com/user-attachments/assets/d36e1c3a-8319-4a08-a34d-4f4f5d5d9660" />
 
 ## Apa yang Bisa Anda Dapatkan 🤑
 
@@ -29,8 +30,8 @@ w.ai is building the Global AI Supercomputer – a worldwide network that uses t
 
 ## Rental Sewa GPU atau Running Lokal
 1. Menurut saya Octaspace biaya lebih murah dari rental lainnya
-2. Dibutuhkan alamat email + top up saldo USDC/USDT di jaringan BSC, daftar disini [https://cube.octa.computer/users/sign_up](https://octa.space/?ref=rTXHXwn7D96)
-3. Jika sudah daftar di menu utama pergi kesini https://marketplace.octa.space/ bisa pilih templates **W.ai atau Ubuntu 22.04 LTS**
+2. Dibutuhkan alamat email + top up saldo USDC/USDT di jaringan BSC, daftar [https://cube.octa.computer/users/sign_up](https://octa.space/?ref=rTXHXwn7D96)
+3. Jika sudah daftar dan berhasil top up di menu https://marketplace.octa.space/ bisa pilih templates **W.ai atau Ubuntu 22.04 LTS**
 4. Pilih sesuai kebutuhan aja misal rental RTX 3060 atau lainnya
 5. Selain jalanin W.Ai bisa jalani node lain misal **ex; nexus.xyz, Gensyn blockassist** dll manfaatin yang ada
 
